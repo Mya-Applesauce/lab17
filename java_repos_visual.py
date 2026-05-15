@@ -52,4 +52,4 @@ fig.update_layout(title_font_size=28, xaxis_title_font_size=20,
 
 fig.update_traces(marker_color='Magenta', marker_opacity=0.6)
 
-fig.show()
+fig.write_html("/home/mya_applesauce/Documents/lab17/java_repos.html")
